@@ -14,3 +14,4 @@ int main() {
     printf("%d\n",sum);
     return 0;
 }
+//注意矩形对角先值为n * n
