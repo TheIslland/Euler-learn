@@ -1,2 +1,2 @@
-# oula-learn
-oula learn code
+# euler-learn
+euler learn code
